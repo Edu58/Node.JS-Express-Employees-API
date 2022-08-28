@@ -1,0 +1,3 @@
+2022/08/28	12:20:19	006a4bec-9fe3-4177-aec1-8a0dae349d97	Error	Not Allowed by CORS
+2022/08/29	01:44:37	6e6cbb27-948c-4362-b319-83ad890a4ef6	Error	Not Allowed by CORS
+2022/08/29	01:44:39	49e97a53-7303-44f8-bb79-0d94591a51d5	Error	Not Allowed by CORS
